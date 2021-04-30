@@ -1,4 +1,4 @@
-# [SECOND](https://github.com/wangqiyue200037/wangqiyue/edit/main/go%20to%20README.md)
+# [SECOND](https://github.com/wangqiyue200037/wangqiyue/blob/main/go%20to%20README.md)
 
 ## h2 学大习
 #### h4 大学习
