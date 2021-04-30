@@ -1,35 +1,34 @@
 # [SECOND](https://github.com/wangqiyue200037/wangqiyue/blob/main/go%20to%20README.md)
 
-## h2 学大习
-#### h4 大学习
+## h2 计算机
+#### h4 科学与技术
 
 [百度一下](https://www.baidu.com/)
 
-## 代码
+## 代码如下
 
 Inline `code`
 
 Indented code
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-    
+    // some code
+    #include <cstdio>
+    #include <cstring>
+    #include <cstdlib>
     ---
     
-**我是大帅比**
+**计算机学习**
 
-__我是大帅比__
+__计算机学习__
 
-*大帅比是我*
+*你学计算机了吗*
 
-_我是大帅比_
+_我爱计算机_
 
-~~我信你个鬼~~
+~~真的吗~~
 ___
 
-+ 王境泽定律：真香
++ CPU:中央处理器
 
 ___
 
