@@ -1,4 +1,4 @@
-# [SECOND](https://github.com/wangqiyue200037/wangqiyue/blob/main/go%20to%20README.md)
+# [LINK](https://github.com/wangqiyue200037/wangqiyue/blob/main/go%20to%20README.md)
 
 ## h2 计算机
 #### h4 科学与技术
